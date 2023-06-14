@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+/* navegação */
+
+nav{
+   
+}
+
+nav ul{
+    list-style: none;
+   
+}
+nav li{
+  
+}
+nav a{
+    text-decoration: none;
+    text-align: center;
+}
+section {
+    height: 80vh;
+}
