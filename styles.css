@@ -50,3 +50,13 @@ h1, h2, h3, p{
     padding: 1em 1em;
 
 }
+.container{
+    display: block;
+    margin: 1em 3em;
+}
+.bloco{
+    display: block;
+}
+.full{
+    width: 100%;
+}
